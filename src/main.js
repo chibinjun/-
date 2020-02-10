@@ -11,7 +11,7 @@ var vm= new Vue({
     data:{
 
     },
-    methods:{ //方法
+    methods:{
         
     },
     render: c => c(app)
